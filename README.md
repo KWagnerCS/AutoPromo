@@ -1,8 +1,18 @@
 # AutoPromo
-Automatically applies promo codes to an emulated mobile app
 
-# Tools
-Uses pynput for mouse and keyboard inputs
+🚀 Automatically applies promo codes to a specific mobile app 🚀
+
+📌 Version 0.0.1 📌
+
+## Tools
+- Pynput library for mouse and keyboard inputs
+- BlueStacks Andriod emulator
+
+## Getting Started
+
+
+
+
 
 pynput: -pip install pynput
 
